@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
         auth.signInWithEmailAndPassword(email , sifre).addOnCompleteListener { task ->
             if (task.isSuccessful){
                 val guncelKullanici = auth.currentUser!!.email.toString()
-                Toast.makeText(applicationContext , "Hoşgeldiniz ${guncelKullanici}" , Toast.LENGTH_LONG).show()
+                Toast.makeText(applicationContext , "Hoşgeldiniz :  ${guncelKullanici}" , Toast.LENGTH_LONG).show()
 
                 val intent = Intent(this , PostsActivity::class.java)
                 startActivity(intent)
