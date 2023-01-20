@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308114273807",
+    "project_id": "benim-foto-uyg-kotlim",
+    "storage_bucket": "benim-foto-uyg-kotlim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308114273807:android:ab0b561ae0d61855ec557a",
+        "android_client_info": {
+          "package_name": "com.example.benimfotouyg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308114273807-8gin4vtepaiql5sithga37kn6ndr15u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1K4FJD3EeitjpyenYTnlrRJWAHX7nIBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308114273807-8gin4vtepaiql5sithga37kn6ndr15u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

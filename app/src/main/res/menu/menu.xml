@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_fotograf_paylas"
+        android:title="Fotograf Paylaş"
+        />
+
+    <item
+        android:id="@+id/menu_cikis_yap"
+        android:title="Çıkış Yap"
+
+        />
+
+</menu>
